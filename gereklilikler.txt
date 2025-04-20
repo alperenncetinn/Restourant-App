@@ -1,0 +1,5 @@
+pyserial==3.5
+tkinter
+sqlite3 
+
+//bunları pip ile yükleyiniz kendi python sürümünüze uygun olan bir versionunu
